@@ -1,5 +1,5 @@
 //Bezier surface 4x4 control pts
- 
+ //Sample and simple program using C++ and Gl concepts.
 #include <GL/glut.h>
 #include <bevgrafmath2017.h>
 #include <math.h>
